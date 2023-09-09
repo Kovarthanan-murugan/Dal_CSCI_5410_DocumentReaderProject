@@ -1,4 +1,4 @@
-# Serverless-Trivia-Game
+# Tax Document Reader Application 
 
 The Tax Document Reader Application is an advanced cloud-based 
 software specifically designed to streamline the data extraction process from 
