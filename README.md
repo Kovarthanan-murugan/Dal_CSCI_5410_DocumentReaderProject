@@ -21,6 +21,9 @@ relevant notifications whenever any requirements arise.
 2) Aws Gateway
 3) Aws DynamoDB
 4) Aws SNS
+5) AWS EC2
+6) AWS S3
+7) Amazon Textract
 
 **Architecture**
 
