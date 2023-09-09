@@ -25,10 +25,6 @@ relevant notifications whenever any requirements arise.
 6) AWS S3
 7) Amazon Textract
 
-**Architecture**
-
-![image](https://github.com/Kovarthanan-murugan/Dal_CSCI_5410_DocumentReaderProject/assets/90558927/7f515ee0-c4b3-424a-9c3b-8a29a1c11ef4)
-
 **Front End:** 
 The web application on EC2 instances were developed with react 
 component-based architecture, virtual DOM for efficient updates, 
@@ -59,6 +55,11 @@ For data extraction from documents, Python was utilized due to its
 suitability for compute-intensive tasks like Optical Character Recognition 
 (OCR). Python provides a wide range of libraries and tools that excel in 
 handling OCR and other document processing tasks efficiently.
+
+
+**Architecture**
+
+![image](https://github.com/Kovarthanan-murugan/Dal_CSCI_5410_DocumentReaderProject/assets/90558927/7f515ee0-c4b3-424a-9c3b-8a29a1c11ef4)
 
 **System Deployment to the Cloud:**
 
