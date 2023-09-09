@@ -26,6 +26,7 @@ relevant notifications whenever any requirements arise.
 7) Amazon Textract
 
 **Front End:** 
+
 The web application on EC2 instances were developed with react 
 component-based architecture, virtual DOM for efficient updates, 
 declarative syntax, and vast ecosystem, React stands out as the optimal 
