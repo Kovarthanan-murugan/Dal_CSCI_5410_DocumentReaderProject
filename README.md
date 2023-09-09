@@ -29,18 +29,3 @@ relevant notifications whenever any requirements arise.
 
 ![image](https://github.com/Kovarthanan-murugan/Dal_CSCI_5410_DocumentReaderProject/assets/90558927/7f515ee0-c4b3-424a-9c3b-8a29a1c11ef4)
 
-
-**Output:**
-
-**Retrieving User Profile Details**
-
-![image](https://github.com/Kovarthanan-murugan/Serverless-Trivia-Game/assets/90558927/2855447a-a4eb-4a76-a63d-dd0ec5ba1eda)
-
-**Editing User Profile Details**
-
-![image](https://github.com/Kovarthanan-murugan/Serverless-Trivia-Game/assets/90558927/a4ffd2e6-7a60-4e40-8365-a009e61fdc7a)
-
-**Game History Update**
-
-![image](https://github.com/Kovarthanan-murugan/Serverless-Trivia-Game/assets/90558927/5945a698-40a2-428d-8c5f-20dc15efa921)
-
